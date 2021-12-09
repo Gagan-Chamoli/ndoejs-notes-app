@@ -1,6 +1,6 @@
 # nodejs-notes-app
 
-# COMMANDS TO BE USED
+# COMMANDS TO BE USED IN TERMINAL
 
 #ADD A NOTE
  node app add --title="<note_title> --body="<note_description>"
